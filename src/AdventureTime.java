@@ -41,7 +41,6 @@ public class AdventureTime {
      * @throws IOException
      */
     public static void main(String[] args) throws IOException {
-        System.out.println(challengeFour("InputThreeFour.txt"));
     }
 
     /** TODO 1
